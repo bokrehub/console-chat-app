@@ -1,0 +1,7 @@
+Next-generation firewalls (NGFWs) typically include the following types of firewalls:
+
+Packet-filtering firewall: NGFWs inspect each packet of data that passes through the network and decide whether to allow or block it based on predefined rules.
+
+Stateful inspection firewall: NGFWs also track the state of each connection passing through the network and make decisions based on the context of the connection.
+
+Application-level firewall: NGFWs examine traffic at the application layer and make decisions based on the specific application or service that the traffic is trying to access.
